@@ -17,17 +17,17 @@ Alternative, feel free to explore other VectorStore solutions, such as [Milvus](
 1. Clone the repository to your local
 2. Create a virtual environment
    ```
-   > python -m venv ragvenv
+   python -m venv ragvenv
    ```
 3. Activate the virtual environment
    ```
-   > .\ragvenv\Scripts\activate
+   .\ragvenv\Scripts\activate
    ```
 4. Install the libraries in the requirements.txt
    ```
-   > pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
-5. Replace the API key in*.env*
+5. Replace the API key in *.env*
    ```
    OPENAI_API_KEY=[API KEY FROM OPENAI]
    PINECONE_API_KEY=[API KEY FROM PINCONE]
