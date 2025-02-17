@@ -1,0 +1,15 @@
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-core==0.2.23
+langchain-openai==0.1.9
+langchain-pinecone==0.1.2
+python-dotenv==1.0.1
+pinecone-client==4.1.1
+protobuf==5.27.2
+protoc-gen-openapiv2==0.0.1
+google-api-core==2.19.1
+grpcio==1.65.1
+unstructured==0.14.7
+unstructured[pdf]
+tqdm==4.66.4
+streamlit==1.36.0
